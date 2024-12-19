@@ -1,0 +1,24 @@
+/* Navbar1.css */
+
+/* Brand text styling */
+.brand-text {
+    font-size: 24px; /* Increase the font size */
+    font-weight: bold;
+    color: #ffffff; /* Set the text color to white */
+  }
+  
+  /* Nav links styling */
+  .nav-links .nav-link {
+    font-size: 18px; /* Increase the font size */
+    font-weight: 500;
+    color: #ffffff; /* Set the text color to white */
+    margin: 0 15px; /* Add some horizontal margin for spacing */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .nav-links .nav-link:hover {
+    color: #f8f9fa; /* Lighter color on hover */
+    text-decoration: none; /* Remove underline on hover */
+    transform: scale(1.1); /* Scale the link slightly on hover */
+  }
+  
