@@ -7,7 +7,6 @@ import "./App.css";
 import { drawRect } from "./utilities";
 import Navbar from "./Navbar";
 
-
 const Objectdetect = () =>{
   const webcamRef = useRef(null);
   const canvasRef = useRef(null);
